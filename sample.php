@@ -1,3 +1,4 @@
 <?php
-    echo "sample"
+    echo "sample";
+    echo "Function to Register";
 ?>
