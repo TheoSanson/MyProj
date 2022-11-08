@@ -1,3 +1,3 @@
 <?php
-    echo "sample";
+    echo "sample"
 ?>
